@@ -31,15 +31,20 @@ The primary goal was to **understand the diffusion process**, implement it step-
 
 1. **Time-conditioned DDPM**
 * Epoch 1:
+https://github.com/user-attachments/assets/9c5237d4-2457-4f12-9613-6787ac94cc06
+
 
 
 * Epoch 20:
+https://github.com/user-attachments/assets/1b3e4ee9-84f4-4742-9f28-d1c72f4d7e81
+
 
 2. **Class-conditioned DDPM**
 * Epoch 1:
 
 
 * Epoch 20:
+
 
 As shown in the samples, class-conditioning significantly improves the denoising process, enabling clearer and more controlled digit generation by epoch 20.
 
